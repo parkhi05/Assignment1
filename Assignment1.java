@@ -21,7 +21,7 @@ public class Assignment1 {
 
 
          */
-         Volume of a cubiod // 
+         // Volume of a cubiod 
 
         /* float a,vol;
         System.out.println("Enter the sides of the cube : ");
@@ -32,7 +32,7 @@ public class Assignment1 {
 
         */
 
-        Simple Interest 
+        //Simple Interest 
 
         /* float p,r,t,SI;
         System.out.println("Enter the value of P : ");
@@ -45,7 +45,7 @@ public class Assignment1 {
           System.out.println("Simple interest is : "+SI);
 
         =======================================================================
-*/
+*/      //Area of rectangle 
          float l,b,area;
          System.out.println("Enter the length : ");
         l=obj.nextFloat();
